@@ -3,8 +3,9 @@ download video youtube from url
 
 <p class="has-line-data" data-line-start="0" data-line-end="3">ครั้งแรกให้ติดตั้ง<br>
 pip install yt-dlp<br>
-brew install ffmpeg (mac os)</p>
+brew install ffmpeg (mac os)<br>
 https://ffmpeg.org/download.html (windows)
+</p>
 <p class="has-line-data" data-line-start="5" data-line-end="9">run คำสั่ง<br>
 python download_youtube.py<br>
 -&gt;ใส่ url ของ youtube ที่ต้องการ<br>
